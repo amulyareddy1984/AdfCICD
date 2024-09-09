@@ -1,0 +1,9 @@
+{
+	"name": "RGDataFactory07",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5dddf5a-f565-4815-91d0-87dcb5355c78",
+		"tenantId": "250f5bdd-3c5a-4c8c-9f39-0acaa43a0999"
+	}
+}
